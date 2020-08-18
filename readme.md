@@ -10,4 +10,4 @@
 
 
 ## Как открыть:
-**[КЛАЦ!]()**
+**[КЛАЦ!](http://htmlpreview.github.io/?https://github.com/ShaninIvan/Module-7.-CSS/blob/master/index.html)**
