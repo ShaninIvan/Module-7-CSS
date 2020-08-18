@@ -91,5 +91,5 @@ article:nth-of-type(-n+2) h2::after{
 }
 
 article:nth-of-type(even){
-    background-color: rgb(190, 190, 190);
+    background-color: rgb(182, 181, 181);
 }
