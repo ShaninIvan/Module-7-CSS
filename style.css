@@ -81,7 +81,7 @@ footer .links > a{
 }
 
 
-article h2:nth-of-type(-n+2)::after{
+article:nth-of-type(-n+2) h2::after{
     content: "new";
     position: absolute;
     color: red;
@@ -91,5 +91,5 @@ article h2:nth-of-type(-n+2)::after{
 }
 
 article:nth-of-type(even){
-    background-color: rgb(243, 236, 174);
+    background-color: rgb(190, 190, 190);
 }
